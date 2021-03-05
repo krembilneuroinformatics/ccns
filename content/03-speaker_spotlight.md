@@ -1,5 +1,5 @@
 +++
-title = "02 - organizing committee"
+title = "03- Speaker Spotlight"
 weight = 20
 draft = false
 +++
