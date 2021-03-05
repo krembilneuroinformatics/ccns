@@ -15,7 +15,7 @@ opportunities that conferences present, CCNS was designed as a “trainee-focuse
 beginning each session, panel discussions with both established and early-career scientists, and a spotlight on trainee 
 presentations.
 
-The first edition of CCNS was planned and implemented entirely in ten weeks and yielded a meeting with more than 450
+The [first edition of CCNS](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008485) was planned and implemented entirely in ten weeks and yielded a meeting with more than 450
 registrants, including representation from every continent across the globe. Perhaps most importantly, the limited costs
 of the virtual setting allowed the meeting to be completely free of charge for all attendees. Every element of the meeting
 remains available for replay online, another benefit of the virtual setting. This success served as the impetus for making
