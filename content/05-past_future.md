@@ -1,6 +1,6 @@
 
 +++
-title = "05 - Past/Future"
+title = "05 - Past & Future"
 weight = 20
 draft = false
 +++
