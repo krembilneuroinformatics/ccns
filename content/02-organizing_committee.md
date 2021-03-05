@@ -8,8 +8,7 @@ draft = false
 
 About the Organizing Committee
 
-Dr. Scott Rich
-Dr. Rich, the lead organizer of CCNS, is currently a Postdoctoral Research Fellow at the Krembil Research Institute.
+[Dr. Scott Rich](http://scottrich.strikingly.com/), the lead organizer of CCNS, is currently a Postdoctoral Research Fellow at the Krembil Research Institute.
 His research aims to elucidate the multi-scale interactions driving physiological brain activity by better understanding
 how they are disrupted in epilepsy, a distinctly multi-scale pathology.
 
