@@ -6,8 +6,8 @@ draft = false
 
 {{< figure class="image main" src="images/event-cover-709.jpg" >}}
 
-# Session Chairs for CCNSv2
+## Session Chairs for CCNSv2
 
-# Confirmed Speakers for CCNSv2
+## Confirmed Speakers for CCNSv2
 
-# Past Speakers
+## Past Speakers
