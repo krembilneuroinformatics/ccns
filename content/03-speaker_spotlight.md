@@ -8,6 +8,6 @@ draft = false
 
 ## Session Chairs for CCNSv2
 
-## Confirmed Speakers for CCNSv2
+## Speakers for CCNSv2
 
 ## Past Speakers
