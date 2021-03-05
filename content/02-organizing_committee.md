@@ -6,7 +6,7 @@ draft = false
 
 {{< figure class="image main" src="images/event-cover-709.jpg" >}}
 
-About the Organizing Committee
+#About the Organizing Committee
 
 [Dr. Scott Rich](http://scottrich.strikingly.com/), the lead organizer of CCNS, is currently a Postdoctoral Research Fellow at the Krembil Research Institute.
 His research aims to elucidate the multi-scale interactions driving physiological brain activity by better understanding
