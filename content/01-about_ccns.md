@@ -4,8 +4,6 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="images/event-cover-709.jpg" >}}
-
 The Canadian Computational Neuroscience Spotlight (CCNS) was created following the mass cancellations and postponements 
 of traditional neuroscience conferences during the early stages of the COVID-19 pandemic, including two such meetings 
 amongst the Canadian neuroscience community. The absence of these meetings presented an opportunity to create a brand-new, 

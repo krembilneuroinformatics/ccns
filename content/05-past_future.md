@@ -5,7 +5,7 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="images/event-cover-709.jpg" >}}
+{{< figure class="image main" src="images/new_brain_3.png" >}}
 
 ## Previous Years
 
