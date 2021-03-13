@@ -1,5 +1,5 @@
 ---
 title: Your Name
 description: A great human
-background: "images/bg.jpg"
+background: "images/new_canada_2.jpg"
 ---
