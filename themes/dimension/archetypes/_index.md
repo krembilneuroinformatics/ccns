@@ -1,6 +1,6 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-background: "/images/bg.jpg"
+background: "/images/new_canada_2.jpg"
 logo: "gem"
 ---
