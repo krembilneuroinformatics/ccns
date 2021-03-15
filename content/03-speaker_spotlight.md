@@ -7,7 +7,7 @@ draft = false
 {{< figure class="image main" src="images/new_brain_1.png" >}}
 
 ## Session Chairs for CCNSv2
-[Dr. Etay Hay](https://www.haybrainlab.com/research), [Dr. Maurizio de Pitta](https://sites.google.com/site/mauriziodepitta/), and [Dr. Bratislav Misic](https://netneurolab.github.io/)
+[Dr. Etay Hay](https://www.haybrainlab.com/research), [Dr. Maurizio de Pitta](https://sites.google.com/site/mauriziodepitta/), [Dr. Carmen Canavier](https://www.medschool.lsuhsc.edu/neuroscience/faculty_detail.aspx?name=canavier_carmen), and [Dr. Bratislav Misic](https://netneurolab.github.io/)
 are confirmed as session chairs for CCNSv2.
 
 ## Speakers for CCNSv2
