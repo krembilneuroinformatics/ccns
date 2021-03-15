@@ -12,7 +12,7 @@ enableRobotsTXT = true
 disableKinds=["RSS"]
 
 [params]
-  description = "Some jazzy tagline <br> <br> X-X Month 2021 <br> <br> Info line <br> Info line <br> Info line <br><br> url <br> <br> <a href='https://app.certain.com/profile/3191868'>Register Here</a><br> "
+  description = "Bridging the Scales of Computational Neuroscience <br> <br> 17-18 May 2021 <br> <br> ccnsmeeting.ca <br> <br> <a href='https://www.crowdcast.io/e/ccnsv2/register'>Register Here</a><br> "
   #description = "<br> <br> 6-12 July 2020 <br> <br> Krembil Centre for Neuroinformatics <br> Centre for Addiction and Mental Health <br>Toronto <br>"
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
   #description = '<!--[-->A fully responsive site template designed by <a href="https://html5up.net">HTML5 UP</a> and released<!--]--><br /> <!--[-->for free under the <a href="https://html5up.net/license">Creative Commons</a> license.<!--]-->'
