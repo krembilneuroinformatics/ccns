@@ -12,7 +12,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+ #     - { label: 'Title', name: 'title', widget: 'string' }
+       - { label: 'CCNS', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Logo', name: 'icon', widget: 'string' }
@@ -25,7 +26,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+ #     - { label: 'Title', name: 'title', widget: 'string' }
+       - { label: 'CCNS', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
   - name: 'posts'
@@ -36,7 +38,8 @@ collections:
     editor:
       preview: false
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
+ #     - { label: 'Title', name: 'title', widget: 'string' }
+       - { label: 'CCNS', name: 'title', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
       - { label: 'Description', name: 'description', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown' }
