@@ -1,5 +1,5 @@
-#baseurl = "https://krembilneuroinformatics.github.io/ccns"
-baseurl = "http://example.org"
+baseurl = "https://krembilneuroinformatics.github.io/ccns"
+#baseurl = "http://example.org"
 #title = "KCNI Summer School 2020 <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
 title = "Canadian Computational Neuroscience Spotlight"
 # <br> <br> Solving Problems in Mental Health Using Multi-Scale Computational Neuroscience"
