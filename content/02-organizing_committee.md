@@ -9,7 +9,7 @@ draft = false
 ## About the Organizing Committee
 
 [**Dr. Scott Rich**](http://scottrich.strikingly.com/) ([@RichCompNeuro](https://twitter.com/RichCompNeuro), ***CCNS lead organizer***) is currently a Postdoctoral Research Fellow at the Krembil Research Institute.
-His research aims to elucidate the multi-scale interactions driving physiological brain activity by better understanding how they are disrupted in epilepsy, a distinctly multi-scale pathology. This work includes a focus on distinctly human epilepsy by integrating human electrophysiological data into the modeling process.
+His research aims to elucidate the multi-scale interactions driving physiological brain activity by better understanding how they are disrupted in epilepsy, a distinctly multi-scale pathology. This work includes a focus on distinctly human epilepsy by integrating human electrophysiological data into the modeling process at varied spatial scales, ranging from biophysically detailed single neuron models to neural mass models. 
 
 [**Dr. Andreea Diaconescu**](cognemo.com) ([@cognemo_andreea](https://twitter.com/cognemo_andreea), ***CCNS co-organizer***) is currently an Independent Scientist at the Krembil Centre for Neuroinformatics at the Centre for Addiction and Mental Health. Leading the Cognitive Network Modelling team, her research focuses on developing cognitive tasks and computational models that address specific symptoms in psychiatry with a particular focus on delusions. In combination with neuroimaging and electrophysiological recordings, the aim is to assess the clinical utility of these models in prospective patient studies
 
