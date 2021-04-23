@@ -28,6 +28,8 @@ Confirmed speakers for CCNS v2 include:
 * Dr. Jonathan Rubin
 * Dr. Alexandra Chatziklaymniou
 * Dr. André Longtin
+
+
 More to come!
 
 ## Past Speakers
