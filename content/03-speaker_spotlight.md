@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-{{< figure class="image main" src="images/new_brain_1.png" >}}
+{{< figure class="image main" src="images/SessionChairs_v1.png" >}}
 
 ## Session Chairs for CCNSv2
 [Dr. Maurizio de Pitta](https://sites.google.com/site/mauriziodepitta/): Maurizio De Pitta is joining the Krembil Research Institute, setting up his lab at the Institute by August 2021. He is currently ‘la Caixa’ Junior Leader Research Fellow at the Basque Center for Applied Mathematics in Bilbao, Spain where he carries out multidisciplinary research in Applied Mathematics with emphasis on translational and clinical topics in the Neurosciences. Maurizio pioneers computational approaches to quantify and replicate neuron-glial interactions in the brain, with the aim to elucidate their role in cognition and pathology. He is co-author of the first book on “Computational Glioscience” by Springer (2019).
