@@ -13,10 +13,11 @@ draft = false
 
 [Dr. Carmen Canavier](https://www.medschool.lsuhsc.edu/neuroscience/faculty_detail.aspx?name=canavier_carmen): Carmen Canavier is the Mullins Professor and Chair, Department of Cell Biology and Anatomy, School of Medicine, Louisiana State University Health Sciences Center at New Orleans (LSUHSC-NO). She is a computational neuroscientist studying synchronization of pulse-coupled oscillators and the nonlinear dynamics of neurons and neural circuits. Her current interests focus on the dopamine neurons that participate in basal ganglia circuits and on gamma and theta oscillations in the hippocampus.
 
-[Dr. Bratislav Misic](https://netneurolab.github.io/): bio to come!
+[Dr. Bratislav Misic](https://netneurolab.github.io/): Bratislav Misic is a mathematician with expertise in neuroimaging and network science. He joined McGill University in 2016, where he lads the Network Neuroscience Lab. His group studies how the links and interactions among brain areas support cognitive operations, complex behavior and global dynamics. 
+
+
 
 ## Speakers for CCNSv2
-Confirmed speakers for CCNS v2 include:
 * Dr. Richard Naud
 * Dr. Gianluigi Mongillo
 * Dr. Sukbin Lim
@@ -28,9 +29,11 @@ Confirmed speakers for CCNS v2 include:
 * Dr. Jonathan Rubin
 * Dr. Alexandra Chatziklaymniou
 * Dr. André Longtin
+* Dr. Emma Towlson
+* Dr. Amy Kuceyski
+* Dr. Caio Seguin
+* Dr. Richard Betzel
 
-
-More to come!
 
 ## Past Speakers
 The keynote speakers for the 2020 edition of CCNS were [Dr. Nancy Kopell](http://math.bu.edu/people/nk/), [Dr. Dimitris Pinotsis](https://www.pinotsislab.com/), [Dr. Cameron McIntyre](https://case.edu/medicine/mcintyre-lab/), and [Dr. Philip Corlett](https://medicine.yale.edu/lab/corlett/).
