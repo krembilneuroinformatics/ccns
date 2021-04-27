@@ -28,7 +28,7 @@ draft = false
 * Dr. Paola Malerba
 * [Dr. Jonathan Rubin](https://scholar.google.com/citations?user=JbwuImwAAAAJ&hl=en&oi=sra): Since receiving his PhD in Applied Math from Brown University in 1996, Jonathan Rubin has been engaged in research in mathematical neuroscience and other topics at the interface of biology and dynamics, with specializations in bursting, rhythm generation, multiple timescale dynamics, and basal ganglia/Parkinson’s disease.  Rubin has mentored over 20 PhD students and postdocs and is a member of the 2021 Class of SIAM Fellows.
 * Dr. Alexandra Chatziklaymniou
-* Dr. André Longtin
+* [Dr. André Longtin](https://mysite.science.uottawa.ca/alongtin/): Andre Longtin is a Professor of Physics at the University of Ottawa, and co-director of its Centre for Neural Dynamics. He works in nonlinear dynamics, stochastic dynamics and nonlinear time series analysis. He also pursue related research in computational and theoretical neuroscience from synapses to whole brain activity and behaviour, including sensory coding, feedback, memory, rhythms, active sensing and model inference through machine learning.
 * Dr. Emma Towlson
 * Dr. Amy Kuceyski
 * Dr. Caio Seguin
