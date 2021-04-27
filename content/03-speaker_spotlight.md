@@ -18,7 +18,7 @@ draft = false
 
 
 ## Speakers for CCNSv2
-* Dr. Richard Naud(https://urldefense.com/v3/__https://scholar.google.ca/citations?user=2HXsblgAAAAJ&hl=en__;!!CjcC7IQ!ch9OLWSWIM_a77n33MattBtYGbo2KHGPL3HJfGsbpdVmlUJzCpMVtdbqWHorba0IkiIDyw$): Richard Naud is a computational neuroscience researcher and associate professor at the University of Ottawa.
+* [Dr. Richard Naud](https://urldefense.com/v3/__https://scholar.google.ca/citations?user=2HXsblgAAAAJ&hl=en__;!!CjcC7IQ!ch9OLWSWIM_a77n33MattBtYGbo2KHGPL3HJfGsbpdVmlUJzCpMVtdbqWHorba0IkiIDyw$): Richard Naud is a computational neuroscience researcher and associate professor at the University of Ottawa.
 * Dr. Gianluigi Mongillo
 * Dr. Sukbin Lim
 * Dr. Yulia Dembitskaya
@@ -26,7 +26,7 @@ draft = false
 * Dr. Alexandre Guet-McCreight
 * Dr. Steve Prescott
 * Dr. Paola Malerba
-* Dr. Jonathan Rubin(https://scholar.google.com/citations?user=JbwuImwAAAAJ&hl=en&oi=sra): Since receiving his PhD in Applied Math from Brown University in 1996, Jonathan Rubin has been engaged in research in mathematical neuroscience and other topics at the interface of biology and dynamics, with specializations in bursting, rhythm generation, multiple timescale dynamics, and basal ganglia/Parkinson’s disease.  Rubin has mentored over 20 PhD students and postdocs and is a member of the 2021 Class of SIAM Fellows.
+* [Dr. Jonathan Rubin](https://scholar.google.com/citations?user=JbwuImwAAAAJ&hl=en&oi=sra): Since receiving his PhD in Applied Math from Brown University in 1996, Jonathan Rubin has been engaged in research in mathematical neuroscience and other topics at the interface of biology and dynamics, with specializations in bursting, rhythm generation, multiple timescale dynamics, and basal ganglia/Parkinson’s disease.  Rubin has mentored over 20 PhD students and postdocs and is a member of the 2021 Class of SIAM Fellows.
 * Dr. Alexandra Chatziklaymniou
 * Dr. André Longtin
 * Dr. Emma Towlson
