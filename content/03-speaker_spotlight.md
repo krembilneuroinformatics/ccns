@@ -30,7 +30,7 @@ draft = false
 * Dr. Alexandra Chatziklaymniou
 * [Dr. André Longtin](https://mysite.science.uottawa.ca/alongtin/): Andre Longtin is a Professor of Physics at the University of Ottawa, and co-director of its Centre for Neural Dynamics. He works in nonlinear dynamics, stochastic dynamics and nonlinear time series analysis. He also pursue related research in computational and theoretical neuroscience from synapses to whole brain activity and behaviour, including sensory coding, feedback, memory, rhythms, active sensing and model inference through machine learning.
 * Dr. Emma Towlson
-* Dr. Amy Kuceyski
+* [Dr. Amy Kuceyski](https://www.cocolaboratory.com/): Amy Kuceyeski is an Associate Professor of Mathematics in the Radiology Department at Weill Cornell Medicine and PI of the Computational Connectomics (CoCo) Lab. For the past decade, Amy has been interested in understanding how the human brain works in order to better diagnose, prognose and treat neurological disease and injury. The CoCo lab's main focus is on using quantitative methods, including machine learning, applied to multi-modal neuroimaging data to map brain-behavior relationships and boost recovery after neurological disease or injury.
 * Dr. Caio Seguin
 * Dr. Richard Betzel
 
