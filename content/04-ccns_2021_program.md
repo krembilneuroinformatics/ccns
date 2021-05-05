@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-CCNSv2 will take place on May 17-18, 2021. Registration is open [here](https://www.crowdcast.io/e/ccnsv2/register), and abstracts for trainee talks can be submitted [here](https://docs.google.com/forms/d/e/1FAIpQLSdCRPkDuPdoS3M7PISDITXfB__rWDiFEi94uEaUDa-SIxyniw/viewform).
+CCNSv2 will take place on May 17-18, 2021, and registration is open [here](https://www.crowdcast.io/e/ccnsv2/register).
 The meeting’s theme will be “Bridging the Spatial Scales of Computational Neuroscience”.
 
 ## Program
