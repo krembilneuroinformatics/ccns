@@ -8,7 +8,7 @@ CCNSv2 will take place on May 17-18, 2021. Registration is open [here](https://w
 The meeting’s theme will be “Bridging the Spatial Scales of Computational Neuroscience”.
 
 ## Program
-# Monday, May 17
+### Monday, May 17
 * 8:45 AM EDT: **Welcome and Introduction**, Dr. Scott Rich
 * 9:00 AM EDT: **Tutorial Talk**, Synaptic function in several declinations, Dr. Maurizio De Pitta
 * 9:30 AM EDT: **Research Talk**, Theory and model-based inference of short-term plasticity, Dr. Richard Naud
@@ -25,7 +25,7 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 3:15 PM EDT: **Research Talk**, Dr. Steve Prescott
 * 4:00 PM EDT: **Trainee Talks**, details TBA by Monday May 10
 
-# Monday, May 17
+### Tuesday, May 18
 * 9:00 AM EDT: **Trainee Talks**, details TBA by Monday May 10
 * 10:00 AM EDT: **Tutorial Talk**, Oscillatory mechanisms, Dr. Carmen Canavier
 * 10:20 AM EDT: **Research Talk**, Circuit mechanisms of hippocampal reactivation during sleep, Dr. Paola Malerba
