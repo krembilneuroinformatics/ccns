@@ -15,7 +15,7 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 10:00 AM EDT: **Research Talk**, Different sites for synaptic storage and their impact on a netowrk's memory capacity, Dr. Gianluigi Mongillo
 * 10:35 AM EDT: **Research Talk**, Efficient inference of synaptic learning rule from in vivo data, Dr. Sukbin Lim
 * 11:15 AM EDT: **Keynote Address**, Lactate supply overtakes glucose when neural computational and cognitive loads scale-up, Dr. Yulia Dembitskaya
-* 12:00 PM EDT: **Panel Discussion**
+* 12:00 PM EDT: **Panel Discussion**, Drs. Alexandre Guet-McCreight, Etay Hay, Amy Kuceyeski, and Jonathan Rubin
 * 12:30 PM EDT: **Lunch Break**
 * 1:00 PM EDT: **Keynote Address**, Dr. Michael London
 * 2:00 PM EDT: **Break**
@@ -33,7 +33,7 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 11:10 AM EDT: **Break**
 * 11:35 AM EDT: **Research Talk**, On the generation of theta rhythms in the hippocampus, Dr. Alexandra Chatziklaymniou
 * 12:00 PM EDT: **Keynote Talk**, Modeling bursty rhythms and their impact on communication between brain areas, Dr. Andre Longtin
-* 1:00 PM EDT: **Panel Discussion**
+* 1:00 PM EDT: **Panel Discussion**, Drs. Alexandra Chatzikalymniou, Andre Longtin, Paola Malerba, and Steve Prescott
 * 1:30 PM EDT: **Lunch Break**
 * 2:00 PM EDT: **Tutorial Talk**, Introduction to network neuroscience, Dr. Bratislav Misic
 * 2:20 PM EDT: **Research Talk**, Psychadelics flatten the brain's energy landscape, Dr. Amy Kuceyeski
