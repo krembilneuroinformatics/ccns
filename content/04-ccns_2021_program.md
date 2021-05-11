@@ -22,7 +22,7 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 2:05 PM EDT: **Introductory Research Talk**, Research and applications of detailed computational models in mental health, Dr. Etay Hay
 * 2:35 PM EDT: **Tutorial Talk**, Optimizing detailed models of human neurons with bluePyOpt, Dr. Alexandre Guet-McCreight
 * 3:10 PM EDT: **Break**
-* 3:15 PM EDT: **Research Talk**, Dr. Steve Prescott
+* 3:15 PM EDT: **Research Talk**, Spike timing precision: roles of neuronal, circuit and stimulus properties, Dr. Steve Prescott
 * 4:00 PM EDT: **Trainee Spotlight**, Giulia Baracchini and Heng Kang Yao
 * 4:20 PM EDT: **Trainee Talks 1**, Neural Population Modeling— Lucy Owen, Maryan Hasanzadeh Mofrad, Pankaj Gupta, Zachary Peter Friedenberger
 * 4:20 PM EDT: **Trainee Talks 2**, Neural Population Modeling, in silico— Davor Curic, Quynh-Anh Nguyen, Syed Hussain Ather
