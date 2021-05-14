@@ -19,7 +19,7 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 12:30 PM EDT: **Lunch Break**
 * 1:00 PM EDT: **Keynote Address**, Dr. Michael London
 * 2:00 PM EDT: **Break**
-* 2:05 PM EDT: **Introductory Research Talk**, Research and applications of detailed computational models in mental health, Dr. Etay Hay
+* 2:05 PM EDT: **Research Talk**, Effects of reduced inhibition in depression on simulated cortical processing and EEG signals, Dr. Etay Hay
 * 2:35 PM EDT: **Tutorial Talk**, Optimizing detailed models of human neurons with bluePyOpt, Dr. Alexandre Guet-McCreight
 * 3:10 PM EDT: **Break**
 * 3:15 PM EDT: **Research Talk**, Spike timing precision: roles of neuronal, circuit and stimulus properties, Dr. Steve Prescott
