@@ -44,8 +44,9 @@ The meeting’s theme will be “Bridging the Spatial Scales of Computational Ne
 * 1:00 PM EDT: **Panel Discussion**, Drs. Alexandra Chatzikalymniou, Andre Longtin, Paola Malerba, and Steve Prescott
 * 1:30 PM EDT: **Lunch Break**
 * 2:00 PM EDT: **Tutorial Talk**, Introduction to network neuroscience, Dr. Bratislav Misic
-* 2:20 PM EDT: **Research Talk**, Psychadelics flatten the brain's energy landscape, Dr. Amy Kuceyeski
-* 2:55 PM EDT: **Research Talk**, Dr. Caio Seguin
+* 2:20 PM EDT: **Research Talk**, Maximizing subnetwork engagement via connectome-wide individualized target search, Dr. Emma Towlson
+* 2:55 PM EDT: **Research Talk**, Psychadelics flatten the brain's energy landscape, Dr. Amy Kuceyeski
+* 3:30 PM EDT: **Research Talk**, Dr. Caio Seguin
 * 4:05 PM EDT: **Keynote Address**, Edge-centric connectomics, Dr. Richard Betzel
 * 4:50 PM EDT: **Group Discussion and Meeting Conclusion**
 
