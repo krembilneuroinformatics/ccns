@@ -28,7 +28,7 @@ Submit your abstract for a Trainee Talk [here](https://forms.gle/thSZWMyr4uxHQLJ
 * 3:00 PM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
-* 4:30 PM EDT: **Trainee Talks **
+* 4:30 PM EDT: **Trainee Talks**
 
 
 ### Tuesday, June 7
