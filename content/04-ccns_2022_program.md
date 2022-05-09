@@ -6,6 +6,8 @@ draft = false
 
 CCNSv3 will take place on June 6-7, 2022, and registration is open [here](https://www.crowdcast.io/e/ccnsv3/register).
 
+Submit your abstract for a Trainee Talk [here](https://forms.gle/thSZWMyr4uxHQLJi9) by May 23 for full consideration.
+
 ## Program
 ### Monday, June 6
 * 8:45 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
