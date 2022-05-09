@@ -8,6 +8,11 @@ draft = false
 
 ## Previous Years
 
+### CCNS 2021
+
+The full program of talks at CCNSv2, including sessions chaired by Dr. Etay Hay, Dr. Maurizio de Pitta, Dr. Carmen Canavier, and Dr. Bratislav Misic, can be found [here](https://www.crowdcast.io/e/ccnsv2/register).
+
+
 ### CCNS 2020
 
 The full program of talks at CCNSv1, including keynote addresses from Dr. Nancy Kopell, Dr. Dimitris Pinotsis, 
