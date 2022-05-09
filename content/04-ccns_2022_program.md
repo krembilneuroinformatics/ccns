@@ -8,7 +8,7 @@ CCNSv3 will take place on June 6-7, 2022, and registration is open [here](https:
 
 ## Program
 ### Monday, June 6
-* 8:45 AM EDT: **Welcome and Introduction**, Dr. Scott Rich
+* 8:45 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
 * 9:00 AM EDT: **Tutorial Talk**, Neuro-AI Session
 * 9:25 AM EDT: **Research Talk**, Neuro-AI Session
 * 9:50 AM EDT: **Break**
@@ -17,13 +17,13 @@ CCNSv3 will take place on June 6-7, 2022, and registration is open [here](https:
 * 10:50 AM EDT: **Break**
 * 11:00 AM EDT: **Keynote Address**, Neuro-AI Session
 * 12:00 PM EDT: **Lunch Break**
-* 1:00 PM EDT: **Tutorial Talk**, Neural Circuit Modeling Session
+* 1:00 PM EDT: **Tutorial Talk: Dr. Alexandra Chatzikalymniou** (Neural Circuit Modeling)
 * 1:25 PM EDT: **Research Talk**, Neural Circuit Modeling Session
 * 1:50 PM EDT: **Break**
-* 2:00 PM EDT: **Research Talk**, Neural Circuit Modeling Session
-* 2:25 PM EDT: **Research Talk**, Neural Circuit Modeling Session
+* 2:00 PM EDT: **Dr. Steven Prescott** (Neural Circuit Modeling)
+* 2:25 PM EDT: **Dr. Carmen Canavier** (Neural Circuit Modeling)
 * 2:50 PM EDT: **Break**
-* 3:00 PM EDT: **Keynote Address**, Neural Circuit Modeling Session
+* 3:00 PM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Trainee Talks **
@@ -32,16 +32,16 @@ CCNSv3 will take place on June 6-7, 2022, and registration is open [here](https:
 ### Tuesday, June 7
 * 8:40 AM EDT: **Trainee Spotlight Talks**
 * 9:00 AM EDT: **Trainee Talks**
-* 10:00 AM EDT: **Tutorial Talk**, Large-Scale Brain Modelling Session: Dr. Kelly Shen
+* 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modelling)
 * 10:25 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
 * 10:50 AM EDT: **Break**
 * 11:00 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
 * 11:25 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
 * 11:50 AM EDT: **Break**
-* 12:00 PM EDT: **Keynote Talk**, Large-Scale Brain Modelling Session: Dr. Viktor Jirsa
+* 12:00 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modelling)
 * 1:00 PM EDT: **Lunch Break**
 * 2:00 PM EDT: **Panel Discussion**
-* 2:30 PM EDT: **Tutorial Talk**, Cognitive Modeling Session: Dr. Andreea Diaconescu
+* 2:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
 * 2:55 PM EDT: **Research Talk**, Cognitive Modeling Session
 * 3:20 PM EDT: **Break**
 * 3:30 PM EDT: **Research Talk**, Cognitive Modeling Session
