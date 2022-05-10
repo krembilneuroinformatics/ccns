@@ -11,21 +11,21 @@ Submit your abstract for a Trainee Talk [here](https://forms.gle/thSZWMyr4uxHQLJ
 ## Program
 ### Monday, June 6
 * 8:45 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
-* 9:00 AM EDT: **Tutorial Talk**, Neuro-AI Session
-* 9:25 AM EDT: **Research Talk**, Neuro-AI Session
+* 9:00 AM EDT: **Tutorial Talk: Dr. Alexandra Chatzikalymniou** (Neural Circuit Modeling)
+* 9:25 AM EDT: **Dr. Willy Wong** (Neural Circuit Modeling) 
 * 9:50 AM EDT: **Break**
-* 10:00 AM EDT: **Research Talk**, Neuro-AI Session
-* 10:25 AM EDT: **Research Talk**, Neuro-AI Session
+* 10:00 AM EDT: **Dr. Steven Prescott** (Neural Circuit Modeling) 
+* 10:25 AM EDT: **Dr. Carmen Canavier** (Neural Circuit Modeling)
 * 10:50 AM EDT: **Break**
-* 11:00 AM EDT: **Keynote Address**, Neuro-AI Session
+* 11:00 AM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
 * 12:00 PM EDT: **Lunch Break**
-* 1:00 PM EDT: **Tutorial Talk: Dr. Alexandra Chatzikalymniou** (Neural Circuit Modeling)
-* 1:25 PM EDT: **Research Talk**, Neural Circuit Modeling Session
+* 1:00 PM EDT: **Tutorial Talk**, Neuro-AI Session
+* 1:25 PM EDT: **Research Talk**, Neuro-AI Session
 * 1:50 PM EDT: **Break**
-* 2:00 PM EDT: **Dr. Steven Prescott** (Neural Circuit Modeling)
-* 2:25 PM EDT: **Dr. Carmen Canavier** (Neural Circuit Modeling)
+* 2:00 PM EDT: **Research Talk**, Neuro-AI Session
+* 2:25 PM EDT: **Research Talk**, Neuro-AI Session
 * 2:50 PM EDT: **Break**
-* 3:00 PM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
+* 3:00 PM EDT: **Keynote Address**, Neuro-AI Session
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Trainee Talks**
