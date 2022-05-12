@@ -45,12 +45,11 @@ draft = false
 * 2:00 PM EDT: **Panel Discussion**
 * 2:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
 * 2:55 PM EDT: **Research Talk**, Cognitive Modeling Session
-* 3:20 PM EDT: **Break**
-* 3:30 PM EDT: **Research Talk**, Cognitive Modeling Session
-* 3:55 PM EDT: **Research Talk**, Cognitive Modeling Session
-* 4:20 PM EDT: **Break**
-* 4:30 PM EDT: **Keynote Address**, Cognitive Modeling Session
-* 5:30 PM EDT: **Concluding Remarks**
+* 3:30 PM EDT: **Break**
+* 3:40 PM EDT: **Research Talk**, Cognitive Modeling Session
+* 4:15 PM EDT: **Break**
+* 4:25 PM EDT: **Keynote Address**, Cognitive Modeling Session
+* 5:25 PM EDT: **Concluding Remarks**
 
 ## Trainee Abstracts
 Coming Soon!
