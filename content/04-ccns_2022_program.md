@@ -44,11 +44,11 @@ draft = false
 * 1:00 PM EDT: **Lunch Break**
 * 2:00 PM EDT: **Panel Discussion**
 * 2:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
-* 2:55 PM EDT: **Research Talk**, Cognitive Modeling Session
+* 2:55 PM EDT: **Dr. Casper Hesp** (Cognitive Modeling)
 * 3:30 PM EDT: **Break**
 * 3:40 PM EDT: **Research Talk**, Cognitive Modeling Session
 * 4:15 PM EDT: **Break**
-* 4:25 PM EDT: **Keynote Address**, Cognitive Modeling Session
+* 4:25 PM EDT: **Keynote Address: Dr. Cendri Hutcherson** (Cognitive Modeling)
 * 5:25 PM EDT: **Concluding Remarks**
 
 ## Trainee Abstracts
