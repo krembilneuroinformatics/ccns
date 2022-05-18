@@ -35,7 +35,7 @@ draft = false
 * 8:40 AM EDT: **Trainee Spotlight Talks**
 * 9:00 AM EDT: **Trainee Talks**
 * 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modelling)
-* 10:25 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
+* 10:25 AM EDT: **Research Talk, Laura Suarez** (Large-Scale Brain Modelling)
 * 10:50 AM EDT: **Break**
 * 11:00 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
 * 11:25 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
