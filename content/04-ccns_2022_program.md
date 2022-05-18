@@ -34,13 +34,13 @@ draft = false
 ### Tuesday, June 7
 * 8:40 AM EDT: **Trainee Spotlight Talks**
 * 9:00 AM EDT: **Trainee Talks**
-* 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modelling)
-* 10:25 AM EDT: **Research Talk, Laura Suarez** (Large-Scale Brain Modelling)
+* 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modeling)
+* 10:25 AM EDT: **Research Talk, Laura Suarez** (Large-Scale Brain Modeling)
 * 10:50 AM EDT: **Break**
-* 11:00 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
-* 11:25 AM EDT: **Research Talk**, Large-Scale Brain Modelling Session
+* 11:00 AM EDT: **Research Talk**, Large-Scale Brain Modeling Session
+* 11:25 AM EDT: **Research Talk**, Large-Scale Brain Modeling Session
 * 11:50 AM EDT: **Break**
-* 12:00 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modelling)
+* 12:00 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
 * 1:00 PM EDT: **Lunch Break**
 * 2:00 PM EDT: **Panel Discussion**
 * 2:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
