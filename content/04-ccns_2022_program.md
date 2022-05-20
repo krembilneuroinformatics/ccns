@@ -35,21 +35,21 @@ draft = false
 * 8:40 AM EDT: **Trainee Spotlight Talks**
 * 9:00 AM EDT: **Trainee Talks**
 * 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modeling)
-* 10:25 AM EDT: **Research Talk, Laura Suarez** (Large-Scale Brain Modeling)
-* 10:50 AM EDT: **Break**
-* 11:00 AM EDT: **Research Talk**, Large-Scale Brain Modeling Session
-* 11:25 AM EDT: **Research Talk**, Large-Scale Brain Modeling Session
-* 11:50 AM EDT: **Break**
-* 12:00 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
-* 1:00 PM EDT: **Lunch Break**
-* 2:00 PM EDT: **Panel Discussion**
-* 2:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
-* 2:55 PM EDT: **Dr. Casper Hesp** (Cognitive Modeling)
-* 3:30 PM EDT: **Break**
-* 3:40 PM EDT: **Research Talk**, Cognitive Modeling Session
-* 4:15 PM EDT: **Break**
-* 4:25 PM EDT: **Keynote Address: Dr. Cendri Hutcherson** (Cognitive Modeling)
-* 5:25 PM EDT: **Concluding Remarks**
+* 10:25 AM EDT: **Laura Suarez** (Large-Scale Brain Modeling)
+* 11:00 AM EDT: **Break**
+* 11:10 AM EDT: **Dr. Jeremie Lefebvre** (Large-Scale Brain Modeling)
+* 11:45 AM EDT: **Break**
+* 11:50 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
+* 12:50 PM EDT: **Lunch Break**
+* 1:30 PM EDT: **Panel Discussion**
+* 2:00 PM EDT: **Break**
+* 2:10 PM EDT: **Dr. Jacqueline Scholl** (Cognitive Modeling)
+* 2:45 PM EDT: **Dr. Casper Hesp** (Cognitive Modeling)
+* 3:20 PM EDT: **Break**
+* 3:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
+* 3:55 PM EDT: **Break**
+* 4:00 PM EDT: **Keynote Address: Dr. Cendri Hutcherson** (Cognitive Modeling)
+* 5:00 PM EDT: **Concluding Remarks**
 
 ## Trainee Abstracts
 Coming Soon!
