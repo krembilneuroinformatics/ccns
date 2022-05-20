@@ -24,9 +24,8 @@ draft = false
 * [**Laura Suarez**](https://github.com/estefanysuarez): Laura Suárez is a PhD candidate in the Neuroscience program at McGill University. Her background is engineering and her main interests lie at the intersection of artificial intelligence and neuroscience. Her research revolves around the link between structure and function in biological brain networks. Specifically, how network structure and dynamics interact to shape the computational capacity of biological neural networks, and how this can help to establish novel design principles for better neuromorphic architectures. Her work is currently supervised by Dr. Bratislav Mišić from the Montreal Neurological Institute (MNI), and by Dr. Guillaume Lajoie from the Montreal Institute for Learning Algorithms (Mila). 
 * **Dr. Jeremie Lefebvre**
 * [**Dr. Viktor Jirsa**](https://ins-amu.fr/jirsaviktor): Dr. Viktor Jirsa is the director of research at the French National Centre for Scientific Research and director of the Institut de Neurosciences des Systemes at Ax-Marseille Universite. His work linking neural networks to brain function includes curating The Virtual Brain neuroinformatics platform and applications of this tool to the study of epilepsy.
-* **Dr. Jacqueline Scholl
+* **Dr. Jacqueline Scholl**
 * [**Dr. Casper Hesp**](https://www.casperhesp.com/): Casper Hesp double-majored in Cognitive Neuroscience and Computational Astrophysics (Cum Laude; University of Amsterdam) and then received a 4-year Research Talent Grant from the Dutch Government to simulate the self-organisation of deep social cognition in open-ended virtual environments. Casper currently has over 6 years of experience in high-end computational modelling and algorithmic innovation. His published works have advanced the frontiers of deep active inference towards novel bio-inspired models of affect, meta-awareness, and collective behaviour.
 * **Dr. Cendri Hutcherson**
-* 
 
 
