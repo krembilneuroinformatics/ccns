@@ -44,7 +44,7 @@ draft = false
 * 1:30 PM EDT: **Panel Discussion**
 * 2:00 PM EDT: **Break**
 * 2:10 PM EDT: **Dr. Jacqueline Scholl** (Cognitive Modeling)
-* 2:45 PM EDT: **Dr. Casper Hesp** (Cognitive Modeling)
+* 2:45 PM EDT: **Casper Hesp** (Cognitive Modeling)
 * 3:20 PM EDT: **Break**
 * 3:30 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
 * 3:55 PM EDT: **Break**
