@@ -21,11 +21,11 @@ draft = false
 * 12:00 PM EDT: **Lunch Break**
 * 1:00 PM EDT: **Tutorial Talk**, Neuro-AI Session
 * 1:25 PM EDT: **Research Talk**, Neuro-AI Session
-* 1:50 PM EDT: **Break**
-* 2:00 PM EDT: **Research Talk**, Neuro-AI Session
-* 2:25 PM EDT: **Research Talk**, Neuro-AI Session
-* 2:50 PM EDT: **Break**
-* 3:00 PM EDT: **Keynote Address**, Neuro-AI Session
+* 2:00 PM EDT: **Break**
+* 2:10 PM EDT: **Research Talk**, Neuro-AI Session
+* 2:45 PM EDT: **Research Talk**, Neuro-AI Session
+* 3:20 PM EDT: **Break**
+* 3:25 PM EDT: **Research Talk**, Neuro-AI Session
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Trainee Talks**
@@ -35,12 +35,13 @@ draft = false
 * 8:40 AM EDT: **Trainee Spotlight Talks**
 * 9:00 AM EDT: **Trainee Talks**
 * 10:00 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modeling)
-* 10:25 AM EDT: **Laura Suarez** (Large-Scale Brain Modeling)
-* 11:00 AM EDT: **Break**
-* 11:10 AM EDT: **Dr. Jeremie Lefebvre** (Large-Scale Brain Modeling)
-* 11:45 AM EDT: **Break**
-* 11:50 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
-* 12:50 PM EDT: **Lunch Break**
+* 10:25 AM EDT: **Dr. Davide Momi** (Large-Scale Brain Modeling)
+* 10:50 AM EDT: **Break**
+* 11:00 AM EDT: **Laura Suarez** (Large-Scale Brain Modeling)
+* 11:25 AM EDT: **Dr. Jeremie Lefebvre** (Large-Scale Brain Modeling)
+* 11:50 AM EDT: **Break**
+* 12:00 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
+* 1:00 PM EDT: **Lunch Break**
 * 1:30 PM EDT: **Panel Discussion**
 * 2:00 PM EDT: **Break**
 * 2:10 PM EDT: **Dr. Jacqueline Scholl** (Cognitive Modeling)
