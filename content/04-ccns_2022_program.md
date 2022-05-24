@@ -25,7 +25,7 @@ draft = false
 * 2:10 PM EDT: **Dr. Milad Lankarany** (Neuro-AI)
 * 2:45 PM EDT: **Dr. Blake Richards** (Neuro-AI)
 * 3:20 PM EDT: **Break**
-* 3:25 PM EDT: **Dr. Wilten Nicola*, (Neuro-AI)
+* 3:25 PM EDT: **Dr. Wilten Nicola** (Neuro-AI)
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Trainee Talks**
