@@ -20,12 +20,12 @@ draft = false
 * 11:00 AM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
 * 12:00 PM EDT: **Lunch Break**
 * 1:00 PM EDT: **Tutorial Talk** (Neuro-AI)
-* 1:25 PM EDT: **Dr. Richard Naud**, (Neuro-AI)
+* 1:25 PM EDT: **Dr. Richard Naud** (Neuro-AI)
 * 2:00 PM EDT: **Break**
-* 2:10 PM EDT: **Dr. Milad Lankarany**, (Neuro-AI)
-* 2:45 PM EDT: **Dr. Blake Richards**, (Neuro-AI)
+* 2:10 PM EDT: **Dr. Milad Lankarany** (Neuro-AI)
+* 2:45 PM EDT: **Dr. Blake Richards** (Neuro-AI)
 * 3:20 PM EDT: **Break**
-* 3:25 PM EDT: **Dr. Wilten Nicola**, (Neuro-AI)
+* 3:25 PM EDT: **Dr. Wilten Nicola*, (Neuro-AI)
 * 4:00 PM EDT: **Break**
 * 4:10 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Trainee Talks**
