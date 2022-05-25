@@ -32,6 +32,6 @@ draft = false
 * **Dr. Jacqueline Scholl**
 * [**Casper Hesp**](http://casperhesp.nl/): Casper Hesp double-majored in Cognitive Neuroscience and Computational Astrophysics (Cum Laude; University of Amsterdam) and then received a 4-year Research Talent Grant from the Dutch Government to simulate the self-organisation of deep social cognition in open-ended virtual environments. Casper currently has over 6 years of experience in high-end computational modelling and algorithmic innovation. His published works have advanced the frontiers of deep active inference towards novel bio-inspired models of affect, meta-awareness, and collective behaviour.
 * **Dr. Andreea Diaconescu**: See bio under "Organizing Committee" tab
-* **Dr. Cendri Hutcherson**
+* [**Dr. Cendri Hutcherson**](https://www.utsc.utoronto.ca/psych/person/cendri-hutcherson): Cendri Hutcherson is the director of the Toronto Decision Neuroscience Laboratory and an Associate Professor of Psychology at the University of Toronto. Her research program applies computational modeling to behavior, eye tracking, EEG, and fMRI data, with the goal of understanding how we make decisions and why we sometimes make decisions we later regret.
 
 
