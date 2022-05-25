@@ -20,12 +20,18 @@ draft = false
 * **Dr. Steven Prescott**
 * **Dr. Carmen Canavier**
 * **Dr. Gaute Einevoll**
-* **Dr. Kelly Shen**
+* **Dr. Richard Naud**
+* **Dr. Milad Lankarany**: See bio under "Organizing Committee" tab
+* **Dr. Blake Richards**
+* **Dr. Wilten Nicola**
+* [**Dr. Kelly Shen**](https://www.sfu.ca/neuro-institute/about/governance/staff/kelly-shen.html): Dr. Kelly Shen is the Senior Program Manager and Informatics Team Lead for the Institute for Neuroscience and Neurotechnology at Simon Fraser University. She led the development of The Virtual Macaque Brain, a macaque connectome for modelling brain dynamics in TheVirtualBrain. More recently, her research has focused on understanding the network dynamics that underlie cognitive function in aging and dementia and has led the development of an automated multi-modal MRI pipeline for processing ‘big data’ inputs for large-scale modelling.
+* **Dr. Davide Momi**
 * [**Laura Suarez**](https://github.com/estefanysuarez): Laura Suárez is a PhD candidate in the Neuroscience program at McGill University. Her background is engineering and her main interests lie at the intersection of artificial intelligence and neuroscience. Her research revolves around the link between structure and function in biological brain networks. Specifically, how network structure and dynamics interact to shape the computational capacity of biological neural networks, and how this can help to establish novel design principles for better neuromorphic architectures. Her work is currently supervised by Dr. Bratislav Mišić from the Montreal Neurological Institute (MNI), and by Dr. Guillaume Lajoie from the Montreal Institute for Learning Algorithms (Mila). 
 * **Dr. Jeremie Lefebvre**
 * [**Dr. Viktor Jirsa**](https://ins-amu.fr/jirsaviktor): Dr. Viktor Jirsa is the director of research at the French National Centre for Scientific Research and director of the Institut de Neurosciences des Systemes at Ax-Marseille Universite. His work linking neural networks to brain function includes curating The Virtual Brain neuroinformatics platform and applications of this tool to the study of epilepsy.
 * **Dr. Jacqueline Scholl**
 * [**Casper Hesp**](http://casperhesp.nl/): Casper Hesp double-majored in Cognitive Neuroscience and Computational Astrophysics (Cum Laude; University of Amsterdam) and then received a 4-year Research Talent Grant from the Dutch Government to simulate the self-organisation of deep social cognition in open-ended virtual environments. Casper currently has over 6 years of experience in high-end computational modelling and algorithmic innovation. His published works have advanced the frontiers of deep active inference towards novel bio-inspired models of affect, meta-awareness, and collective behaviour.
+* **Dr. Andreea Diaconescu**: See bio under "Organizing Committee" tab
 * **Dr. Cendri Hutcherson**
 
 
