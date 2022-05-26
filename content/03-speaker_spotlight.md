@@ -22,7 +22,7 @@ draft = false
 * **Dr. Gaute Einevoll**
 * **Dr. Richard Naud**
 * **Dr. Milad Lankarany**: See bio under "Organizing Committee" tab
-* **Dr. Blake Richards**
+* [**Dr. Blake Richards**](https://mila.quebec/en/person/blake-richards/): Blake Richards is an Assistant Professor in the School of Computer Science and The Neuro at McGill University. He is also a Core Faculty Member at Mila where he holds a CIFAR Canada AI Chair. Dr. Richards was the 2019 Canadian Association for Neuroscience Young Investigator Award Recipient, and is known for his work at the intersection of neuroscience and AI.
 * **Dr. Wilten Nicola**
 * [**Dr. Kelly Shen**](https://www.sfu.ca/neuro-institute/about/governance/staff/kelly-shen.html): Dr. Kelly Shen is the Senior Program Manager and Informatics Team Lead for the Institute for Neuroscience and Neurotechnology at Simon Fraser University. She led the development of The Virtual Macaque Brain, a macaque connectome for modelling brain dynamics in TheVirtualBrain. More recently, her research has focused on understanding the network dynamics that underlie cognitive function in aging and dementia and has led the development of an automated multi-modal MRI pipeline for processing ‘big data’ inputs for large-scale modelling.
 * [**Dr. Davide Momi**](https://www.linkedin.com/in/davide-momi-748698ba): Davide is a Post-Doctoral Research Fellow at the Krembil Centre for Neuroinformatics, experienced with multimodal neuroimaging and electrophysiological data, brain stimulation, quantitative structural MRI assessment, machine learning, and simulations of macroscale brain dynamics. His research is focused on predicting TMS signal propagation based on neuroimaging and electrophysiological data.
