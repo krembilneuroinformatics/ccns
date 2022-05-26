@@ -16,10 +16,10 @@ draft = false
 
 
 ## Speakers for CCNSv3
-* **Dr. Willy Wong**
+* [**Dr. Willy Wong**](https://www.ece.utoronto.ca/people/wong-w/): Willy Wong received his BSc in physics from the University of Toronto, following that his masters and doctoral degrees with Ken Norwich in physics and biomedical engineering at the Institute of Biomedical Engineering (BME) at U of T. Since then he was a visiting scientist at universities in Toyama (Japan), Cambridge (U.K.) and Eindhoven (The Netherlands) working with such notable sensory scientists as Horace Barlow and Adrian Houtsma. Since 2000, he joined the ECE department at U of T as a faculty member. Dr. Wong’s research focuses on neural engineering, biomedical signal processing and on sensory physics, with particular emphasis on characterizing brain electrical activity, elucidating underlying mechanisms and building associated medical devices.
 * **Dr. Steven Prescott**
-* **Dr. Carmen Canavier**
-* **Dr. Gaute Einevoll**
+* [**Dr. Carmen Canavier**](https://www.medschool.lsuhsc.edu/cell_biology/faculty_detail.aspx?name=canavier_carmen): Dr. Canavier is a theoretical and computational neuroscientist who is interested in nonlinear neuronal dynamics and synchronization of pulse coupled oscillators. She works on delineating the biophysical basis for diversity in subpopulations of midbrain dopamine neurons, on mechanisms of hippocampal gamma oscillations, and on neuromodulation of intrinsic dynamics. She received her PhD in electrical and computer engineering from Rice University and did her postdoctoral research at the University of Texas Health Sciences Center at Houston. She is the Mullins Professor and Interim Head of the Department of Cell Biology and Anatomy at LSU Health Sciences Center in New Orleans.
+* [**Dr. Gaute Einevoll**](https://www.mn.uio.no/fysikk/english/people/aca/geinevol/index.html): Gaute Einevoll is a professor of physics at the Norwegian University of Life Sciences and the University of Oslo working on brain physics, in particular, physics-type modelling of nerve cells, networks of nerve cells, brain tissue and brain signals. He is participating in the large-scale EU Human Brain Project started in 2013 and scheduled to end in 2023.
 * **Dr. Richard Naud**
 * **Dr. Milad Lankarany**: See bio under "Organizing Committee" tab
 * [**Dr. Blake Richards**](https://mila.quebec/en/person/blake-richards/): Blake Richards is an Assistant Professor in the School of Computer Science and The Neuro at McGill University. He is also a Core Faculty Member at Mila where he holds a CIFAR Canada AI Chair. Dr. Richards was the 2019 Canadian Association for Neuroscience Young Investigator Award Recipient, and is known for his work at the intersection of neuroscience and AI.
