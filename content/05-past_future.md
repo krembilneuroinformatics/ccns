@@ -8,6 +8,11 @@ draft = false
 
 ## Previous Years
 
+### CCNS 2022
+
+The full program of talks at CCNSv3, including sessions chaired by Dr. Alexandra Chatzikalymniou, Dr. Randy McIntosh, Dr. Milad Lankarany, and Drs. Andreea Diaconescu and Povilas Karvelis, can be found [here](https://www.crowdcast.io/e/ccnsv3/register).
+
+
 ### CCNS 2021
 
 The full program of talks at CCNSv2, including sessions chaired by Dr. Etay Hay, Dr. Maurizio de Pitta, Dr. Carmen Canavier, and Dr. Bratislav Misic, can be found [here](https://www.crowdcast.io/e/ccnsv2/register).
