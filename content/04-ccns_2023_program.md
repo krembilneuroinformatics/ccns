@@ -4,7 +4,7 @@ weight = 20
 draft = false
 +++
 
-### CCNSv4 will take place on October 5-6, 2023, and registration is open [here](CROWDCAST.IO/C/CCNSV4).
+### CCNSv4 will take place on October 5-6, 2023, and registration is open [here](https://www.crowdcast.io/c/ccnsv4).
 
 ### Submit your abstract for a Trainee Talk [here](https://docs.google.com/forms/d/e/1FAIpQLSeev-EA5ccwKapzRV43xD4NfDYGyDeAiWpTuv4b_7GKkrWPOQ/viewform?usp=sf_link) by September 1 for full consideration.
 
