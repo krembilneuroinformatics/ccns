@@ -7,7 +7,7 @@ draft = false
 
 
 ## CCNSv4 Keynote Speakers
-[**Dr. Rick Adams**]([https://twitter.com/Alex_Pierri_C](https://www.ucl.ac.uk/mental-health/mental-health-awareness-week/meet-dr-rick-adams)): Bio coming soon!
+[**Dr. Rick Adams**](https://www.ucl.ac.uk/mental-health/mental-health-awareness-week/meet-dr-rick-adams): Bio coming soon!
 
 [**Dr. Jeremie Lefebvre**](https://www.uottawa.ca/brain/people/lefebvre-jeremie): Bio coming soon!
 
