@@ -35,48 +35,28 @@ Submissions before September 1 at 5 pm EDT will be considered for longer “spot
 This meeting was first designed as a “Canadian” spotlight event considering the COVID-19 related cancellations or postponements of many neuroscience meetings in Canada specifically. However, the meeting quickly grew to not only include an international group of speakers, but also attendees from across the globe. As such, while we endeavor to shine a spotlight on the burgeoning computational neuroscience community within Canada, this meeting is designed for an international audience, and everyone is encouraged to register and apply for trainee talks.
 
 # Tentative Program
-### Thursday, June 6
-* 8:45 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
-* 9:00 AM EDT: **Tutorial Talk: Dr. Alexandra Chatzikalymniou** (Neural Circuit Modeling)
-* 9:25 AM EDT: **Dr. Willy Wong** (Neural Circuit Modeling) 
-* 9:50 AM EDT: **Break**
-* 10:00 AM EDT: **Dr. Steven Prescott** (Neural Circuit Modeling) 
-* 10:25 AM EDT: **Dr. Carmen Canavier** (Neural Circuit Modeling)
-* 10:50 AM EDT: **Break**
-* 11:00 AM EDT: **Keynote Address: Dr. Gaute Einevoll** (Neural Circuit Modeling)
-* 12:00 PM EDT: **Lunch Break**
-* 1:00 PM EDT: **Tutorial Talk** (Neuro-AI)
-* 1:25 PM EDT: **Dr. Richard Naud** (Neuro-AI)
-* 2:00 PM EDT: **Break**
-* 2:10 PM EDT: **Dr. Milad Lankarany** (Neuro-AI)
-* 2:45 PM EDT: **Dr. Blake Richards** (Neuro-AI)
-* 3:20 PM EDT: **Break**
-* 3:25 PM EDT: **Dr. Wilten Nicola** (Neuro-AI)
-* 4:00 PM EDT: **Break**
-* 4:05 PM EDT: **Trainee Spotlight Talks: Laura Medlock and Ann Huang**
-* 4:40 PM EDT: **Parallel Trainee Talks**
+### Thursday, October 5
+* 9:00 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
+* 9:15 AM EDT: **Keynote: Dr. Rick Adams**
+* 10:15 AM EDT: **Break** 
+* 10:30 AM EDT: **Tutorial #1**
+* 11:00 AM EDT: **Trainee Spotlight Talks** 
+* 11:30 AM EDT: **Parallel Trainee Talks** 
+* 12:30 PM EDT: **Lunch Break**
+* 1:30 PM EDT: **Panel Discussion**
+* 2:15 PM EDT: **Keynote: Dr. Jeremie Lefebvre**
+* 3:15 PM EDT: **Break**
+* 3:30 PM EDT: **Tutorial #2**
+* 4:00 PM EDT: **Trainee Spotlight Talks**
+* 4:30 PM EDT: **Parallel Trainee Talks**
 
 
-### Tuesday, June 7
-* 8:40 AM EDT: **Trainee Spotlight Talks: Andrea Luppi and Annemarie Wolff**
-* 9:15 AM EDT: **Parallel Trainee Talks**
-* 9:45 AM EDT: **Break**
-* 9:50 AM EDT: **Tutorial Talk: Dr. Kelly Shen** (Large-Scale Brain Modeling)
-* 10:15 AM EDT: **Dr. Davide Momi** (Large-Scale Brain Modeling)
-* 10:40 AM EDT: **Break**
-* 10:50 AM EDT: **Laura Suarez** (Large-Scale Brain Modeling)
-* 11:15 AM EDT: **Dr. Jeremie Lefebvre** (Large-Scale Brain Modeling)
-* 11:40 AM EDT: **Break**
-* 11:50 PM EDT: **Keynote Address: Dr. Viktor Jirsa** (Large-Scale Brain Modeling)
-* 12:50 PM EDT: **Lunch Break**
-* 1:20 PM EDT: **Panel Discussion**
-* 2:00 PM EDT: **Dr. Jacqueline Scholl** (Cognitive Modeling)
-* 2:35 PM EDT: **Casper Hesp** (Cognitive Modeling)
-* 3:10 PM EDT: **Break**
-* 3:20 PM EDT: **Tutorial Talk: Dr. Andreea Diaconescu** (Cognitive Modeling)
-* 3:45 PM EDT: **Break**
-* 3:50 PM EDT: **Keynote Address: Dr. Cendri Hutcherson** (Cognitive Modeling)
-* 4:50 PM EDT: **Concluding Remarks**
+### Friday, October 6
+* 9:00 AM EDT: **Trainee Spotlight Talks**
+* 9:30 AM EDT: **Parallel Trainee Talks**
+* 10:00 AM EDT: **Break**
+* 10:15 AM EDT: **Keynote: Dr. Sarah Muldoon**
+* 11:45 AM EDT: **Concluding Remarks** 
 
 ## Trainee Abstracts
 Coming Soon!
