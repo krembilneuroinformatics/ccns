@@ -9,13 +9,6 @@ draft = false
 ### Submit your abstract for a Trainee Talk [here](https://docs.google.com/forms/d/e/1FAIpQLSeev-EA5ccwKapzRV43xD4NfDYGyDeAiWpTuv4b_7GKkrWPOQ/viewform?usp=sf_link) by September 1 for full consideration.
 
 # About CCNSv4:
-## What is the Canadian Computational Neuroscience Spotlight (CCNS)?
-The Canadian Computational Neuroscience Spotlight (CCNS) was created following the mass cancellations and postponements of traditional neuroscience conferences during the early stages of the COVID-19 pandemic, including two such meetings amongst the Canadian neuroscience community. The absence of these meetings presented an opportunity to create a brand-new, entirely virtual academic meeting that could take full advantage of the online setting. Given that traditionally-defined trainees and early-career researchers were arguably most impacted by the cancellation of the networking and learning opportunities that conferences present, CCNS was designed as a “trainee-focused” meeting, highlighted by tutorial talks beginning each session, panel discussions with both established and early-career scientists, and a spotlight on trainee presentations.
-
-The first edition of CCNS was planned and implemented entirely in ten weeks and yielded a meeting with more than 450 registrants, including representation from every continent across the globe. CCNSv2 and CCNSv3 built on this success in the following years, incorporating invited session chairs and highlighted trainee talks and eclipsing as many as 500 registrants. Perhaps most importantly, the limited costs of the virtual setting allowed these meetings to be completely free of charge for all attendees. Every element of these meetings remain available for replay online, another benefit of the virtual setting. This success served as the impetus for making CCNS a recurring academic meeting.
-
-Going forward, CCNS will continue to highlight cutting-edge computational neuroscience research, both in Canada and around the world, while providing unique learning, networking, and presentation opportunities for trainees and early-career researchers. The meeting is committed to remaining cost-accessible to the entire academic community, using the virtual setting to maximize accessibility for populations for which physical conferences present a challenge, and maintaining a diverse lineup of speakers during its continued evolution.
-
 ## What's new in v4?
 This year, CCNS will be a “sibling meeting” to the Krembil Computational Neuroscience Symposium taking place (in person in Toronto) on October 2-3. Taking place the same week (October 5-6), CCNS will capitalize on this momentum in the Canadian computational neuroscience community with an even stronger emphasis on trainee engagement, including workshop-style sessions and more opportunity for spotlighted trainee talks.
 
@@ -37,16 +30,16 @@ This meeting was first designed as a “Canadian” spotlight event considering 
 # Tentative Program
 ### Thursday, October 5
 * 9:00 AM EDT: **Welcome and Introduction: Dr. Scott Rich**
-* 9:15 AM EDT: **Keynote: Dr. Rick Adams**
+* 9:15 AM EDT: **Keynote: Dr. Rick Adams**- Using biophysical modelling to determine excitatory, inhibitory and/or NMDA receptor dysfunction in psychosis
 * 10:15 AM EDT: **Break** 
-* 10:30 AM EDT: **Tutorial #1**
+* 10:30 AM EDT: **Tutorial: Dr. Andreea Diaconescu**
 * 11:00 AM EDT: **Trainee Spotlight Talks** 
 * 11:30 AM EDT: **Parallel Trainee Talks** 
 * 12:30 PM EDT: **Lunch Break**
 * 1:30 PM EDT: **Panel Discussion**
-* 2:15 PM EDT: **Keynote: Dr. Jeremie Lefebvre**
-* 3:15 PM EDT: **Break**
-* 3:30 PM EDT: **Tutorial #2**
+* 2:15 PM EDT: **Tutorial: Dr. Axel Hutt**
+* 2:45 PM EDT: **Break**
+* 3:00 PM EDT: **Keynote: Dr. Jeremie Lefebvre**
 * 4:00 PM EDT: **Trainee Spotlight Talks**
 * 4:30 PM EDT: **Parallel Trainee Talks**
 
@@ -55,7 +48,8 @@ This meeting was first designed as a “Canadian” spotlight event considering 
 * 9:00 AM EDT: **Trainee Spotlight Talks**
 * 9:30 AM EDT: **Parallel Trainee Talks**
 * 10:00 AM EDT: **Break**
-* 10:15 AM EDT: **Keynote: Dr. Sarah Muldoon**
+* 10:15 AM EDT: **Keynote: Dr. Sarah Muldoon**- Personalized Brain Network Models
+* 11:15 AM EDT: **Tutorial: Dr. Scott Rich**
 * 11:45 AM EDT: **Concluding Remarks** 
 
 ## Trainee Abstracts
